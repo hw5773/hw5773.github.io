@@ -1,0 +1,619 @@
+
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		
+		<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+		<meta http-equiv="content-script-type" content="text/javascript" />
+		<meta http-equiv="content-style-type" content="text/css" />
+		<meta http-equiv="content-language" content="nl" />
+		
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		
+		<meta name="author" content="Hyunwoo Lee" />	
+		<meta name="description" content="I'm Hyunwoo Lee. I'm making the Internet secure and trustworthy" />
+		<meta name="keywords" content="Hyunwoo Lee, Interactive Resume, Security Researcher, Interactive CV, Resume, CV" />
+		<meta name="robots" content="index, follow" />
+		<meta name="revisit-after" content="14 days" />
+			
+		<title>Hyunwoo Lee - A Postdoc Research Associate at Purdue University</title>
+		
+		<!-- Bootstrap core CSS -->
+		<link href="http://fonts.googleapis.com/css?family=Open+Sans:300,600,700" rel="stylesheet" type="text/css" />
+		<link href="bootstrap.min.css" rel="stylesheet" />
+		<link href="style.css" rel="stylesheet" />
+		
+		<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+		<link rel="icon" href="/favicon.ico" type="image/x-icon" />
+		
+		<!--[if lt IE 9]>
+			<script src="/view/js/html5shiv.js"></script>
+			<script src="/view/js/respond.min.js"></script>
+		<![endif]-->
+		
+		<!-- Begin Inspectlet Embed Code -->
+		<script type="text/javascript" id="inspectletjs">
+			window.__insp = window.__insp || [];
+			__insp.push(['wid', 92785244]);
+			(function() {
+				function __ldinsp(){var insp = document.createElement('script'); insp.type = 'text/javascript'; insp.async = true; insp.id = "inspsync"; insp.src = ('http:' == document.location.protocol ? 'http' : 'http') + '://www.inspectlet.com/inspectlet.js'; var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(insp, x); }
+				if (window.attachEvent){
+					window.attachEvent('onload', __ldinsp);
+				}else{
+					window.addEventListener('load', __ldinsp, false);
+				}
+			})();
+		</script>
+		<!-- End Inspectlet Embed Code -->
+	</head>
+	<body data-spy="scroll" data-target="#navbar-example">	 
+			
+		<div id="top" class="jumbotron" data-src="scene.jpg" data-position="center right">
+			<div class="container">
+				<h1>Hyunwoo Lee</h1>
+				<p class="lead">Resume</p>
+			</div>
+		</div>
+		<div class="background-white">
+			<div id="profile" class="container">
+				<h2>Profile</h2>
+        <p class="lead">I&#039;m a Network Security Researcher.<br>My dream is to make the Internet more trustworthy and secure!</p>
+				<div class="row" style="text-align: center; margin-top: 20px;">
+					<div class="col-xs-12">
+						<a id="cv-link" href="hwlee_cv.pdf" target="_blank">View  CV</a>
+					</div>
+				</div>
+<hr />
+
+				<div class="row">
+					<div class="col-md-4">
+						<h3>About me</h3>
+            <p>I am a Postdoc Research Associate at <a href="https://www.purdue.edu" target="_blank">Purdue University</a>. I received a Ph.D from <a href="http://mmlab.snu.ac.kr" target="_blank">Network Convergence and Security Laboratory</a> at <a href="http://www.snu.ac.kr" target="_blank">Seoul National University.</a> I like to design cryptographic protocols appropriate to diverse networks. Currently, I am interested in Transport Layer Security (TLS), Public Key Infrastructure (PKI), and Trusted Execution Environment (TEE) so that I will contribute to making the Internet more trustworthy and secure.</p>
+					</div>
+					<div class="col-md-4 text-center">
+						<img src="profile.png" alt="Pascal van Gemert" width="246" height="246" />
+					</div>
+					<div class="col-md-4">
+						<h3>Details</h3>
+						<p>
+							<strong>Name:</strong><br />
+							Hyunwoo Lee<br />
+							<strong>Email:</strong><br />
+							<a href="mailto:lee3816@purdue.edu">lee3816@purdue.edu</a><br />
+							<strong>Github Repository:</strong><br />
+							<a href="https://github.com/hw5773" target="_blank">https://github.com/hw5773/</a><br />
+						</p>
+					</div>
+				</div>
+				
+				<div class="row">
+					<div class="col-md-4">
+						<h3>Research Interests</h3>
+					</div>
+					<div class="col-md-8">
+            <li>Transport Layer Security (TLS)</li>
+            <li>Public Key Infrastructure (PKI)</li>
+						<li>Cryptography</li>
+            <li>Content Delivery Network (CDN)</li> 
+            <li>Edge Computing</li>
+            <li>Internet of Things (IoT)</li>
+            <li>Trusted Execution Environment (TEE)</li>
+            <li>Intrusion Detection System with Machine Learning</li>
+            <li>Mobile Network Security</li>
+					</div>
+				</div>
+			</div>	
+		</div>	
+		
+		<div id="experiences" class="container">
+			<h2>Experiences</h2>
+				<p class="lead">
+					&ldquo;If you don't live as you think, you will think as you live&rdquo;
+				</p>
+
+			<hr />
+
+			<h3>Educations</h3>
+
+
+			<div class="experiences">
+				<div class="experience row">
+					<div class="col-md-4">
+						<h4>Mar 2015 - Aug 2020</h4>
+					</div>
+					<div class="col-md-8">
+						<strong>M.S./Ph D. Integrated Course at Seoul National University</strong><br>
+						Major: Computer Science and Engineering Department<br>
+            Laboratory: Network Convergence and Security Lab.<br>
+            Advisor: Ted "Taekyoung" Kwon
+					</div>
+				</div>
+				<div class="experience row">
+					<div class="col-md-4">
+						<h4>Mar 2004 - Feb 2011</h4>
+					</div>
+					<div class="col-md-8">
+						<strong>B.S. Course at Seoul National University</strong><br>
+						Major: Computer Science and Engineering Department
+					</div>
+				</div>
+			</div>
+
+<hr />
+
+<h3>Career</h3>
+
+
+	<div class="experiences">
+		<div class="experience row">
+			<div class="col-md-4">
+				<h4>Aug 2020 - Present</h4>
+			</div>
+			<div class="col-md-8">
+        <strong>Postdoc Research Associate at Purdue University</strong><br>
+        Advisor: Elisa Bertino and Ninghui Li
+			</div>
+		</div>
+	</div>
+<hr />
+
+
+<h3>Publications</h3>
+
+
+<div class="experiences">
+	<div class="experience row">
+		<div class="col-md-4">
+			<h4>2021</h4>
+		</div>
+		<div class="col-md-8">
+      <strong>Analyzing Spatial Differences in the TLS Security of Delegated Web Services</strong> <a href="paper/asiaccs_2021.pdf" target="_blank">[Paper]</a> <br>
+			Joonhee Lee, <strong>Hyunwoo Lee</strong>, Jongheon Jeong, Doowon Kim, and Taekyoung "Ted" Kwon<br>
+			The 16th ACM ASIA Conference on Computer and Communications Security (ACM ASIACCS 2021), Hong Kong, China, June 2021 (Virtual)
+		</div>
+	</div>
+
+	<div class="experience row">
+		<div class="col-md-4">
+			<h4></h4>
+		</div>
+		<div class="col-md-8">
+      <strong>TLS 1.3 in Practice: How TLS 1.3 Contributes to the Internet</strong> <a href="paper/thewebconf_2021.pdf" target="_blank">[Paper]</a> <a href="https://github.com/tls13contribution/tls13.git" target="_blank">[Github]</a><br>
+			<strong>Hyunwoo Lee</strong>, Doowon Kim, and Yonghwi Kwon<br>
+			The Web Conference 2021 (TheWebConf 2021, formerly WWW), Ljublijana, Slovenia, April 2021 (Virtual)
+		</div>
+	</div>
+
+	<div class="experience row">
+		<div class="col-md-4">
+			<h4>2019</h4>
+		</div>
+		<div class="col-md-8">
+      <strong>mqTLS: Toward Secure MQTT Communication with an Untrusted Broker</strong> <a href="paper/mqtls.pdf" target="_blank">[Paper]</a><br>
+			<strong>Hyunwoo Lee</strong>, Junghwan Lim, and Ted "Taekyoung" Kwon<br>
+			The 10th International Conference on ICT Convergence (ICTC '19), Jeju Island, Korea, October 2019
+		</div>
+	</div>
+
+	<div class="experience row">
+		<div class="col-md-4">
+			<h4></h4>
+		</div>
+		<div class="col-md-8">
+      <strong>Proactive SDN-based Load Balancing for Datacenter Network (Poster)</strong> <a href="paper/proactive.pdf" target="_blank">[Proposal]</a><br>
+			Minhyeok Kang, <strong>Hyunwoo Lee</strong>, Junghwan Song, and Ted "Taekyoung" Kwon<br>
+			The 14th International Conference on Future Internet Technologies (CFI '19), Phuket, Thailand, August 2019
+		</div>
+	</div>
+
+	<div class="experience row">
+		<div class="col-md-4">
+			<h4></h4>
+		</div>
+		<div class="col-md-8">
+      <strong>D2TLS: Delegation-based DTLS for Cloud-based IoT Services</strong> <a href="paper/d2tls.pdf" target="_blank">[Paper]</a><br>
+			Eunsang Cho, Minkyung Park, <strong>Hyunwoo Lee</strong>, Junhyeok Choi, and Ted "Taekyoung" Kwon<br>
+			2019 ACM/IEEE Fourth International Conference on Internet-of-Things Design and Implementation (IoTDI '19), Montreal, Canada, April 2019
+		</div>
+	</div>
+
+	<div class="experience row">
+		<div class="col-md-4">
+			<h4></h4>
+		</div>
+		<div class="col-md-8">
+      <strong>maTLS: How to Make TLS middlebox-aware?</strong> <a href="paper/matls.pdf" target="_blank">[Paper] <a href="https://middlebox-aware-tls.github.io" target="_blank">[Page]</a> <a href="https://github.com/middlebox-aware-tls" target="_blank">[Github]</a><br>
+			<strong>Hyunwoo Lee</strong>, Zach Smith, Junghwan Lim, Gyeongjae Choi, Selin Chun, Taejoong Chung, and Ted "Taekyoung" Kwon<br>
+			In Proceedings of the Network and Distributed System Security Symposium (NDSS '19), San Diego, USA, February 2019
+		</div>
+	</div>
+	
+  <div class="experience row">
+		<div class="col-md-4">
+			<h4></h4>
+		</div>
+		<div class="col-md-8">
+      <strong>A Multi-Interface Mobility Support Socket Library for Edge Computing (Korean)</strong> <a href="paper/socket.pdf" target="_blank">[Paper]</a><br>
+      Junghwan Lim, <strong>Hyunwoo Lee</strong>, and Ted "Taekyoung" Kwon<br>
+			Korea Information and Communication Society (KICS) Conference Winter 2019, Pyeongchang, Gangwon-do, January 2019
+		</div>
+	</div>
+				
+	<div class="experience row">
+		<div class="col-md-4">
+			<h4>2018</h4>
+		</div>
+		<div class="col-md-8">
+			<strong>A Trustworthy Middlebox-aware Networking Architecture
+        (Poster)</strong> <a href="paper/NSDI_Poster.pdf" target="_blank">[Poster]</a> <a href="paper/NSDI_Proposal.pdf" target="_blank"> [Proposal]</a><br>
+			<strong>Hyunwoo Lee</strong>, Zach Smith, Selin Chun, and Ted "Taekyoung" Kwon<br>
+			15th USENIX Symposium on Networked Systems Design and Implementation (NSDI '18), Renton, USA, April 2018
+		</div>
+	</div>
+	
+	<div class="experience row">
+		<div class="col-md-4">
+			<h4></h4>
+		</div>
+		<div class="col-md-8">
+			<strong>An Application and Analysis on TLS extension with Compressed
+        Certificate (Korean)</strong> <a href="paper/tls-cc.pdf" target="_blank">[Paper]</a><br>
+			<strong>Hyunwoo Lee</strong>, Younghyun Kim, Eunsang Cho, and Ted "Taekyoung" Kwon<br>
+			Korea Information and Communication Society (KICS) Conference Winter 2018, Jeongsun-gun, Gangwon-do, January 2018
+		</div>
+	</div>
+	
+	<div class="experience row">
+		<div class="col-md-4">
+			<h4>2017</h4>
+		</div>
+		<div class="col-md-8">
+			<strong>A Preliminary Study on Disaster Waste Detection and Volume Estimation based on
+3D Spatial Information</strong> <a href="paper/iwcce_2017.pdf" target="_blank">[Paper]</a><br>
+			Hyungtaeck Yoo, <strong>Hyunwoo Lee</strong>, Seokho Chi, Bon-Gang Hwang<br>
+			2017 International Workshop on Computing in Civil Engineering (IWCCE 2017)
+		</div>
+	</div>
+	
+	<div class="experience row">
+		<div class="col-md-4">
+			<h4>2016</h4>
+		</div>
+		<div class="col-md-8">
+			<strong>Position Estimation of Robotic Mobile Nodes in Wireless Testbed using GENI</strong> <a href="paper/syscon_2016.pdf" target="_blank">[Paper]</a><br>
+			Ahmed Abdelhadi, Felipe Rechia, Arvind Narayanan, Thiago Teixeira, Ricardo Lent, Driss Benhaddou, <strong>Hyunwoo Lee</strong>, T. Charles Clancy<br>
+			Systems Conference (SysCon 2016)
+		</div>
+	</div>
+
+	<div class="experience row">
+		<div class="col-md-4">
+			<h4>2015</h4>
+		</div>
+		<div class="col-md-8">
+			<strong>Enabling SDN Experimentation with Wired and Wireless Resources:
+        The SmartFIRE facility</strong> <a href="paper/cloudcomp_2015.pdf" target="_blank">[Paper]</a><br>
+			Kostas Choumas, Thanasis Korakis, <strong>Hyunwoo Lee</strong>, Donghyun Kim, Junho Suh
+Ted “Taekyoung” Kwon, Pedro Martinez-Julia, Antonio Skarmeta, Taewan You, Loic Baron
+Serge Fdida , and JongWon Kim<br>
+			6th EAI International Conference on Cloud Computing (Cloudcomp 2015)
+		</div>
+	</div>
+	
+	<div class="experience row">
+		<div class="col-md-4">
+			<h4></h4>
+		</div>
+		<div class="col-md-8">
+			<strong>ICN-OMF: A Control, Management Framework for Information-Centric
+        Network Testbed</strong> <a href="paper/icoin_2015.pdf" target="_blank">[Paper]</a><br>
+			<strong>Hyunwoo Lee</strong>, Donghyun Kim, Junho Suh, Ted ”Taekyoung” Kwon<br>
+			International Conference on Information Networking (ICOIN 2015)
+		</div>
+	</div>
+</div>
+
+<hr />
+
+<h3>Research Projects</h3>
+
+
+<div class="experiences">
+	<div class="experience row">
+		<div class="col-md-4">
+			<h4>Mar 2019 - Nov 2019</h4>
+		</div>
+		<div class="col-md-8">
+			<strong>Analysis on the distributed internet infrastructure</strong> (funded by ETRI)<br>
+			<i>Researcher</i><br>
+			This project aims to analyze the infrastructure for the distributed internet<br><br>
+			Related Technologies: Blockchain, Decentralized Identifier (DID), Blockstack, Sovrin, etc.
+		</div>
+	</div>
+
+	<div class="experience row">
+		<div class="col-md-4">
+			<h4>Oct 2016 - Aug 2020</h4>
+		</div>
+		<div class="col-md-8">
+			<strong>Developing high-performance programming environments and computing systems</strong> (funded by NRF)<br>
+			<i>System Designer / System Programmer</i><br>
+			This project aims to develop super high-performance computing system. <br><br>
+			Related Technologies: High Performance Computing, Software Defined Network, TCP/IP Networking,
+Loseless network, Congestion Control, Switch Configuration, Linux Kernel Module
+Development (C)	
+		</div>
+	</div>
+	
+	<div class="experience row">
+		<div class="col-md-4">
+			<h4>May 2016 - Aug 2020</h4>
+		</div>
+		<div class="col-md-8">
+			<strong>Versatile Network System Architecture for Multi-dimensional Diversity</strong> (funded by IITP)<br>
+			<i>Project Manager (Lab.) / System Designer / System Programmer</i><br>
+			This project aims to design a network architecture to cover diversity, such as interfaces,
+services, and resources, in the edge network.<br><br>
+			Related Technologies: Edge/Cloud Computing, Software Defined Network, TCP/IP Networking,
+Trustworthiness, Mobility, Multicasting, In-network caching, Linux Kernel Module Development
+(C)
+		</div>
+	</div>
+	
+	<div class="experience row">
+		<div class="col-md-4">
+			<h4>Jan 2016 - Mar 2016</h4>
+		</div>
+		<div class="col-md-8">
+			<strong>Consultation on the Mash-up API for the IoT Platform Improvement</strong> (funded by JC Square Inc.)<br>
+			<i>Researcher</i><br>
+			This project aims to consult the mash-up API and security issues to improve the IoT platform.<br><br>
+			Related Technologies: Internet of Things, Authentication, Authorization, OAuth
+		</div>
+	</div>
+	
+	<div class="experience row">
+		<div class="col-md-4">
+			<h4>Jul 2015 - Dec 2015</h4>
+		</div>
+		<div class="col-md-8">
+			<strong>Study on Future Internet Architectures focusing on Security</strong> (funded by KIISE)<br>
+			<i>Researcher</i><br>
+			This project aims to survey diverse future Internet architectures, such as the content centric
+networking (CCN), focusing on their security aspects.<br><br>
+			Related Technologies: eXpressive Internet Architecture (XIA), Mobility First (MF), Named Data Networking (NDN)
+		</div>
+	</div>
+	
+	<div class="experience row">
+		<div class="col-md-4">
+			<h4>Jul 2015 - Dec 2015</h4>
+		</div>
+		<div class="col-md-8">
+			<strong>Development of Network Security Acceleration for Next-generation Low-power SoC</strong> (funded by Samsung Electronics)<br>
+			<i>Developer</i><br>
+			This project aims to secure the communication sessions with low-power SoCs.<br><br>
+			Related Technologies:  OpenSSL, WolfSSL, Transport Layer Security, Datagram Transport Layer Security, Internet of Things, Energia, RedBearLab CC3200 Board, Beagle Bone Black, ODROID,
+C, Python
+		</div>
+	</div>
+	
+	<div class="experience row">
+		<div class="col-md-4">
+			<h4>Sep 2014 - Dec 2015</h4>
+		</div>
+		<div class="col-md-8">
+			<strong>SmartFIRE: Enabling SDN Experiments in Wireless Testbeds exploiting Future Internet Infrastructures in South Korea and Europe</strong> (funded by MSIP)<br>
+			<i>Project Manager (Lab) / Researcher / Developer</i><br>
+			This project aims to secure the communication sessions with low-power SoCs.<br><br>
+			Related Technologies: Information-Centric Networking (ICN), KVM, GRE-tunneling, Ruby, Python,
+Bash shell script
+		</div>
+	</div>
+	
+	<div class="experience row">
+		<div class="col-md-4">
+			<h4>Oct 2014 - Dec 2014</h4>
+		</div>
+		<div class="col-md-8">
+			<strong>Research on the Manageable IP-based Secure Architecture</strong> (funded by SKT)<br>
+			<i>Developer</i><br>
+			This project aims to design and implement the light-weight authentication and authorization
+regarding IoT devices.<br><br>
+			Related Technologies: Certificate-Less Public Key Cryptography (CL-PKC), OpenSSL, Raspberry Pi, C,
+Python
+		</div>
+	</div>
+</div>
+
+<hr />
+
+<h3>Awards</h3>
+
+<div class="experiences">
+	<div class="experience row">
+		<div class="col-md-4">
+			<h4>2019</h4>
+		</div>
+		<div class="col-md-8">
+			<strong>Ph D. Fellowship Award</strong> 
+      December 20 from Naver Corporation<br>
+		</div>
+	</div>
+
+	<div class="experience row">
+		<div class="col-md-4">
+			<h4></h4>
+		</div>
+		<div class="col-md-8">
+			<strong>Best Research Award</strong> 
+      August 20 in Open Tech Talk at Samsung Security Tech Forum (SSTF) 2019<br>
+		</div>
+	</div>
+</div>
+
+<hr />
+
+
+<h3>Seminar Talk</h3>
+
+<div class="experiences">
+	<div class="experience row">
+		<div class="col-md-4">
+			<h4>2019</h4>
+		</div>
+		<div class="col-md-8">
+			<strong>Toward Trustworthy Middlebox-aware Secure Architecture</strong> 
+      <a href="slide/sstf.pdf" target="_blank">[Slide]</a> (Korean)<br>
+      August 20 in Open Tech Talk at Samsung Security Tech Forum (SSTF) 2019<br>
+      <a href="https://research.samsung.com/sstf" target="_blank">https://research.samsung.com/sstf</a>
+		</div>
+	</div>
+	<div class="experience row">
+		<div class="col-md-4">
+			<h4></h4>
+		</div>
+		<div class="col-md-8">
+			<strong>maTLS: How to Make TLS middlebox-aware?</strong> 
+      <a href="slide/luxembourg.pdf" target="_blank">[Slide]</a><br>
+      March 13 at Security and Trust of Software System (SaToSS) in University of Luxembourg<br>
+      <a href="http://satoss.uni.lu/seminars/srm/" target="_blank">http://satoss.uni.lu/seminars/srm/</a>
+		</div>
+	</div>
+
+</div>
+
+<hr />
+
+<h3>Patents</h3>
+
+
+<div class="experiences">
+	<div class="experience row">
+		<div class="col-md-4">
+			<h4>2019</h4>
+		</div>
+		<div class="col-md-8">
+			<strong>Network System and Method for Performing Message Security Thereof
+      (Pending / Korea)</strong><br>
+			Ted “Taekyoung” Kwon, <strong>Hyunwoo Lee</strong>, Myungchul Kwak,
+      Hyeonmin Lee, Junghwan Lim, Yoojung Shin<br>
+			(Application No. 10-2019-0156578)
+		</div>
+
+		<div class="col-md-4">
+			<h4></h4>
+		</div>
+		<div class="col-md-8">
+			<strong>Communication Method and Apparatus for Supporting Diverse
+        Interfaces, Mobility and Multicasting using Integrated Flat ID (PCT)</strong><br>
+			Ted “Taekyoung” Kwon, <strong>Hyunwoo Lee</strong>, Myungchul Kwak, Hyeonmin Lee, Junghwan Lim, Gyeongjae Choi, Yoojung Shin<br>
+			(Application No. PCT/KR2019/016640)
+		</div>
+
+	</div>
+
+	<div class="experience row">
+		<div class="col-md-4">
+			<h4>2018</h4>
+		</div>
+		<div class="col-md-8">
+			<strong>Communication Method and Apparatus for Supporting Diverse
+        Interfaces, Mobility and Multicasting using Integrated Flat ID (Pending
+      /Korea)</strong><br>
+			Ted “Taekyoung” Kwon, <strong>Hyunwoo Lee</strong>, Myungchul Kwak, Hyeonmin Lee, Junghwan Lim, Gyeongjae Choi, Yoojung Shin<br>
+			(Application No. 10-2018-0160970)
+		</div>
+	</div>
+
+	<div class="experience row">
+		<div class="col-md-4">
+			<h4>2017</h4>
+		</div>
+		<div class="col-md-8">
+			<strong>Integrated ID based Communication Method and System (Registered / Korea)</strong><br>
+			Ted “Taekyoung” Kwon, <strong>Hyunwoo Lee</strong>, Hyeonmin Lee, Dongjun Lee, Hyunchul Oh<br>
+			(Application No. 10-2017-0159700)
+		</div>
+	</div>
+	
+	<div class="experience row">
+		<div class="col-md-4">
+			<h4></h4>
+		</div>
+		<div class="col-md-8">
+			<strong>Waste Volume Calculation Method and Waste Volume Calculation System (Pending / Korea)</strong><br>
+			Seokho Chi, Hyungtaeck Yoo, <strong>Hyunwoo Lee</strong><br>
+			(Application No. 10-2017-0020084)
+		</div>
+	</div>
+	
+	<div class="experience row">
+		<div class="col-md-4">
+			<h4>2016</h4>
+		</div>
+		<div class="col-md-8">
+			<strong>Method and System for Estimating the Generation of Disaster Waste using Unmanned Aerial
+Vehicle (UAV) (Pending / Korea)</strong><br>
+			Seokho Chi, Hyungtaeck Yoo, <strong>Hyunwoo Lee</strong><br>
+			(Application No. 10-2016-0181527)
+		</div>
+	</div>
+	
+	<div class="experience row">
+		<div class="col-md-4">
+			<h4></h4>
+		</div>
+		<div class="col-md-8">
+			<strong>Systems and Methods that Support an Integrated Identity (Pending / Korea)</strong><br>
+			Ted “Taekyoung” Kwon, Myungchul Kwak, <strong>Hyunwoo Lee</strong>, Hyeonmin Lee<br>
+			(Application No. 10-2016-0158686)
+		</div>
+	</div>
+</div>
+</div>
+		
+		<div class="background-white">
+			<div id="abilities" class="container">
+				<h2>Abilities</h2>
+<p class="lead">
+	&ldquo;All is well!&rdquo;
+</p>
+
+<hr />
+
+<h3>Certification</h3>
+
+<div class="row">
+	<h4>&#9632 Engineer Information Security</h4>
+	&nbsp;&nbsp;&nbsp;&nbsp;Certified by Korea Internet &amp; Security Agency on December 27, 2013 (Qualification Number: 13202000151A) <a href="cert/information_security.pdf" target="_blank">[Certificate]</a>
+	
+	<h4>&#9632 Oracle Certified Professional, Java SE 6 Programmer</h4>
+	&nbsp;&nbsp;&nbsp;&nbsp;Certified by Oracle on December 27, 2013 <a href="cert/ocjp.pdf" target="_blank">[Certificate]</a>
+	
+	<h4>&#9632 Engineer Information Processing</h4>
+	&nbsp;&nbsp;&nbsp;&nbsp;Certified by Human Resources Development Service of Korea on June 1, 2009 (Qualification Number: 09201021824B)
+
+	<h4>&#9632 Craftsman Computer Graphics Operation</h4>
+	&nbsp;&nbsp;&nbsp;&nbsp;Certified by Human Resources Development Service of Korea on October 8, 2001 (Qualification Number: 01403071984N)
+</div>
+
+<hr />
+
+<h3>Technical Skills</h3>
+
+<div class="row">
+	<strong>&#9656 Programming Languages</strong>: C/C++, Java, Python, Ruby, PHP, Go<br>
+	<strong>&#9656 Operating Systems</strong>: Linux (Ubuntu), Windows, Energia, Contiki, Android<br>
+	<strong>&#9656 Cryptography Libraries</strong>: OpenSSL, BoringSSL, WolfSSL, Relic Toolkit, MbedTLS<br>
+	<strong>&#9656 System on Chips</strong>: Raspberry Pi (1, 3B), Beagle Bone Black, RedBearLab CC3200 Board, ODROID<br>
+	<strong>&#9656 Web Server Development</strong>: nginx<br>
+	<strong>&#9656 Web Framework</strong>: Flask<br>
+	<strong>&#9656 Browser Development</strong>: Chromium<br>
+	<strong>&#9656 Database</strong>: MySQL<br>
+	<strong>&#9656 Trusted Execution Environment</strong>: Intel SGX, ARM TrustZone, Open Portable Trusted Execution Environment (OP-TEE)
+</div>
+</div>
+</div>
+  </body>
+</html>
